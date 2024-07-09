@@ -1,0 +1,23 @@
+
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬Ö¯œ
+M
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì£€à
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïØÿò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ô³–¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À»û“
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»“ç—ýÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(þ¯Ã—
+M	java:S106$"9Replace this use of System.out or System.err by a logger.( Ú÷Z
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ˆ™‡çÿÿÿÿÿ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(÷Ñì>
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(‡ä¡æ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ÊÌç‚øÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(™ÍÊÒ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(Â§è®
+J
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+J
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.io.Reader'.(µû¨é
